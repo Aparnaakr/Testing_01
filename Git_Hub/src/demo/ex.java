@@ -15,6 +15,11 @@ public class ex {
 	{
 		System.out.println("m3 method.......");
 	}
+
+	public void m4()
+	{
+		System.out.println("m4 method.......");
+	}
 	
 	
 	
